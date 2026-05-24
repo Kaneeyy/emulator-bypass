@@ -4,7 +4,7 @@
     "search": "F04F2DE904D04DE2",
     "replace": "0000A0E31EFF2FE1",
     "version": "OB53",
-    "author": "KrishuX",
+    "author": "YourName",
     "verified": true
   },
   {
@@ -12,7 +12,15 @@
     "search": "30482DE90C419FE5",
     "replace": "0000A0E31EFF2FE1",
     "version": "OB53",
-    "author": "KrishuX",
+    "author": "YourName",
     "verified": true
+  },
+  {
+    "name": "Login Bypass",
+    "search": "F04F2DE90050A0E3",
+    "replace": "0000A0E31EFF2FE1",
+    "version": "OB53",
+    "author": "YourName",
+    "verified": false
   }
 ]
