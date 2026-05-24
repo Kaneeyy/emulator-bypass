@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Emulator Flag Bypass v1",
+    "search": "F04F2DE904D04DE2",
+    "replace": "0000A0E31EFF2FE1",
+    "version": "OB53",
+    "author": "KrishuX",
+    "verified": true
+  },
+  {
+    "name": "Anti-Cheat Blindness",
+    "search": "30482DE90C419FE5",
+    "replace": "0000A0E31EFF2FE1",
+    "version": "OB53",
+    "author": "KrishuX",
+    "verified": true
+  }
+]
