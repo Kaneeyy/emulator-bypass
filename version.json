@@ -1,0 +1,7 @@
+{
+  "latest_version": "OB53",
+  "hash": "a3f5c2b1e8d9f7c6",
+  "release_date": "2026-05-25",
+  "patches_count": 2,
+  "changelog": "Added emulator flag bypass + anti-cheat blindness"
+}
