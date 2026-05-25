@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "PlayerStructure_OB53_V1",
+    "Pattern": "FF FF FF FF 00 00 00 00 00 00 00 00 00 00 00 00 ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? 00 00 00 00 00 00 00 00 00 00 00 00 A5 43",
+    "HeadOffset": 240,
+    "ChestOffset": 772,
+    "Version": "OB53",
+    "Verified": true,
+    "CreatedAt": "2026-05-26T00:00:00Z"
+  },
+  {
+    "Name": "PlayerStructure_OB53_V2",
+    "Pattern": "A5 43 ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? 00 00 00 00 FF FF FF FF 00 00 00 00 00 00 00 00",
+    "HeadOffset": 240,
+    "ChestOffset": 772,
+    "Version": "OB53",
+    "Verified": false,
+    "CreatedAt": "2026-05-26T00:00:00Z"
+  }
+]
